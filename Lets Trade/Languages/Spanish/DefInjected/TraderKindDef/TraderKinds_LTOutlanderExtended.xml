@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Trader - Outlander -->
+
+  <Caravan_Outlander_Farming.label>vendedor de agrícola</Caravan_Outlander_Farming.label>
+  <Caravan_Outlander_Mining.label>minería</Caravan_Outlander_Mining.label>
+  <Caravan_Outlander_Textiles.label>vendedor de tela </Caravan_Outlander_Textiles.label>
+  <Caravan_Outlander_Medical.label>vendedor de medicina </Caravan_Outlander_Medical.label>
+  <Caravan_Outlander_Drugs.label>vendedor de drogas</Caravan_Outlander_Drugs.label>
+  <Caravan_Outlander_Archeological.label>expedición arqueología</Caravan_Outlander_Archeological.label>
+
+    <!-- === Translation for 'Let's Trade' by Huzzakah. Cheers mate! === -->
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Trader - Orbital -->
+
+  <Orbital_Farming.label>vendedor de herramientas agriculturas</Orbital_Farming.label>
+  <Orbital_Textiles.label>vendedor de textiles</Orbital_Textiles.label>
+  <Orbital_Butcher.label>carnicero</Orbital_Butcher.label>
+  <Orbital_Medical.label>proveedor de itemas quirúrgicos</Orbital_Medical.label>
+  <Orbital_Drug.label>vendedor de farmacéuticos</Orbital_Drug.label>
+  <Orbital_Factory.label>fábrica orbital</Orbital_Factory.label>
+  <Orbital_Mining.label>minero estelar </Orbital_Mining.label>
+  <Orbital_Archelogical.label>vendedor de artefactos</Orbital_Archelogical.label>
+  <Orbital_Livestock.label>vacero</Orbital_Livestock.label>
+  <Orbital_Restaurant.label>restaurante portátil</Orbital_Restaurant.label>
+  <Orbital_Scrap.label>vendedor de chatarra</Orbital_Scrap.label>
+  <Orbital_Cannibal.label>proveedor de cosas canibalisticas</Orbital_Cannibal.label>
+  <Orbital_Rare.label>vendedor inteligencia artificial de Arcotech</Orbital_Rare.label>
+
+    <!-- === Translation for 'Let's Trade' by Huzzakah. Cheers mate! === -->
+</LanguageData>
