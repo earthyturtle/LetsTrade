@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Let's Trade!</name>
+	<author>EarthyTurtle, zhrocks</author>
+   <url>https://github.com/earthyturtle/LetsTrade</url>
+	<supportedVersions>
+		<li>0.18</li>
+		<li>0.19</li>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
+	<packageId>earthyturtle.letstrade</packageId>
+  <description>Let's Trade! ~ Trader Expansion Mod
+Mod Version [1.10.18]
+Supports Rimworld Versions: B18, B19, 1.0, 1.1 and Royalty
+
+'Let's Trade!' adds more variety to RimWorld traders. A total of 25 new traders are added that use vanilla categories and trader tags that provide additional trade support for modded content. This mod also allows you to modify how often you see specific traders, allowing you to truly tailor your trading experience.
+
+'Let's Trade!' is under the creative commons license. Cite, learn and use aspects from this mod, credit optional but appreciated ;). Please do not outright copy this mod and/or re-upload without my consent.
+Credits to:
+- zhrocks for creating the ongoing 1.1 support!
+	</description>
+	<modDependencies>
+    <li>
+      <packageId>UnlimitedHugs.HugsLib</packageId>
+      <displayName>HugsLib</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=818773962</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+	  <li>UnlimitedHugs.HugsLib</li>
+  </loadAfter>
+</ModMetaData>
