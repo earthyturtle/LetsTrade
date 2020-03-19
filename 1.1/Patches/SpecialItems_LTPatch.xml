@@ -19,25 +19,6 @@
       <li Class="PatchOperationRemove">
         <xpath>/Defs/ThingDef[defName = "InfiniteChemreactor"]/tradeability</xpath>
       </li>
-      <!-- ========== Patch - New lists ========== -->
-      <li Class="PatchOperationAdd">
-        <xpath>/Defs/ThingDef[defName = "InfiniteChemreactor"]/tradeTags</xpath>
-        <value>
-          <li>Exotictwo</li>
-        </value>
-      </li>
-      <li Class="PatchOperationAdd">
-        <xpath>/Defs/ThingDef[defName = "VanometricPowerCell"]/tradeTags</xpath>
-        <value>
-          <li>Exotictwo</li>
-        </value>
-      </li>
-      <li Class="PatchOperationAdd">
-        <xpath>/Defs/ThingDef[defName = "PsychicEmanator"]/tradeTags</xpath>
-        <value>
-          <li>Exotictwo</li>
-        </value>
-      </li>
     </operations>
   </Operation>
 </Patch>
