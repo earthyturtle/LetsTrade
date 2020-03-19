@@ -1,7 +1,0 @@
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lets Trade\Assemblies\LetsTradeSettings.dll
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lets Trade\Assemblies\LetsTradeSettings.pdb
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lets Trade\Source\LetsTradeSettings\obj\Debug\LetsTradeSettings.csprojAssemblyReference.cache
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lets Trade\Source\LetsTradeSettings\obj\Debug\LetsTradeSettings.csproj.CoreCompileInputs.cache
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lets Trade\Source\LetsTradeSettings\obj\Debug\LetsTradeSettings.csproj.CopyComplete
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lets Trade\Source\LetsTradeSettings\obj\Debug\LetsTradeSettings.dll
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Lets Trade\Source\LetsTradeSettings\obj\Debug\LetsTradeSettings.pdb
