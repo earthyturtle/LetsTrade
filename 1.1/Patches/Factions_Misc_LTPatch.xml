@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Patch>
-  <!-- ========== Patch - Adding Trading Caravans ========== -->
   <Operation Class="PatchOperationSequence">
     <success>Always</success>
     <operations>
+
       <li Class="PatchOperationAdd">
         <xpath>/Defs/FactionDef[@Name="OutlanderFactionBase"]/caravanTraderKinds</xpath>
         <value>
@@ -26,6 +26,32 @@
           <li>Caravan_Neolithic_Odd</li>
         </value>
       </li>
+
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/TraderKindDef[@Name="Orbital_BulkGoods"]</xpath>
+        <value>
+        <commonality>2</commonality>
+        </value>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/TraderKindDef[@Name="Orbital_CombatSupplier"]</xpath>
+        <value>
+        <commonality>1</commonality>
+        </value>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/TraderKindDef[@Name="Orbital_Exotic"]</xpath>
+        <value>
+        <commonality>1</commonality>
+        </value>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/TraderKindDef[@Name="Orbital_PirateMerchant"]</xpath>
+        <value>
+        <commonality>1</commonality>
+        </value>
+      </li>
+
     </operations>
   </Operation>
 </Patch>
